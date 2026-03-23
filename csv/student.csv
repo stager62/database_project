@@ -1,0 +1,21 @@
+student_id;full_name;email;registration_date;status
+1;Иван Петров;student1@gmail.com;2026-03-01;active
+2;Петр Иванов;student2@gmail.com;2026-03-02;active
+3;Анна Сидорова;student3@gmail.com;2026-03-03;active
+4;Мария Кузнецова;student4@gmail.com;2026-03-04;active
+5;Алексей Смирнов;student5@gmail.com;2026-03-05;active
+6;Олег Орлов;student6@gmail.com;2026-03-06;inactive
+7;Елена Морозова;student7@gmail.com;2026-03-07;active
+8;Сергей Волков;student8@gmail.com;2026-03-08;active
+9;Наталья Федорова;student9@gmail.com;2026-03-09;active
+10;Дмитрий Попов;student10@gmail.com;2026-03-10;inactive
+11;Ирина Лебедева;student11@gmail.com;2026-03-11;active
+12;Артем Козлов;student12@gmail.com;2026-03-12;active
+13;Юлия Новикова;student13@gmail.com;2026-03-13;active
+14;Максим Егоров;student14@gmail.com;2026-03-14;inactive
+15;Ольга Павлова;student15@gmail.com;2026-03-15;active
+16;Роман Васильев;student16@gmail.com;2026-03-16;active
+17;Татьяна Захарова;student17@gmail.com;2026-03-17;active
+18;Игорь Белов;student18@gmail.com;2026-03-18;inactive
+19;Дарья Комарова;student19@gmail.com;2026-03-19;active
+20;Кирилл Громов;student20@gmail.com;2026-03-20;active
